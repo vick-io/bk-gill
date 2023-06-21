@@ -41,5 +41,4 @@ I'm looking to follow my passion and pursue a career in software engineering whe
 - GitHub: [https://github.com/bk-gill](https://github.com/bk-gill)
 - LinkedIn: [https://www.linkedin.com/in/balkarn-vick-gill-826881240](https://www.linkedin.com/in/balkarn-vick-gill-826881240)
 - Twitter: [@bksgill](https://twitter.com/bksgill)
-- Facebook: [https://facebook.com/balkarn.gill](https://facebook.com/balkarn.gill)
 

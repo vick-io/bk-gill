@@ -25,7 +25,7 @@ I'm looking to follow my passion and pursue a career in software engineering whe
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
-**Frameworks and libraries:**
+**Frameworks and Libraries:**
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>

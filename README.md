@@ -1,34 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👋 Hi, I'm Balkarn! 👋
 
-## Getting Started
+![Github followers](https://img.shields.io/github/followers/YourGithubUsername?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/bksgill?style=social)
 
-First, run the development server:
+<img align='right' src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' width='200"'>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 About Me 🚀
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+I'm looking to follow my passion and pursue a career in software engineering where I can apply my skills and knowledge to drive meaningful change. 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- 👨‍🎓 I am working towards my Master's of Electrical and Computer Engineering degree, with a specialization in Software Engineering.
+- 🌱 I'm currently diving deep into the realms of software development and architecture, focusing on machine learning, large-scale data analytics, and advanced system design. Concurrently, I'm exploring front-end development independently to augment my skills. 🚀
+- 📫 How to reach me: balkarn.gill@outlook.com
 
-## Learn More
+## 🛠️ My Skills 🛠️
 
-To learn more about Next.js, take a look at the following resources:
+**Languages and Tools:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+**Frameworks and libraries:**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## 💻 My GitHub Statistics 💻
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bk-gill&theme=tokyonight)
+
+## 📬 Get in Touch 📬
+
+- GitHub: [https://github.com/bk-gill](https://github.com/bk-gill)
+- LinkedIn: [https://www.linkedin.com/in/balkarn-vick-gill-826881240](https://www.linkedin.com/in/balkarn-vick-gill-826881240)
+- Twitter: [@bksgill](https://twitter.com/bksgill)
+

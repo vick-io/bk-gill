@@ -10,7 +10,7 @@
 I'm looking to follow my passion and pursue a career in software engineering where I can apply my skills and knowledge to drive meaningful change! 
 
 - 👨‍🎓 I am working towards my Master's of Electrical and Computer Engineering degree, with a specialization in Software Engineering.
-- 🌱 I'm currently diving deep into the realms of software development and architecture, focusing on machine learning, large-scale data analytics, and advanced system design. Concurrently, I'm exploring front-end development independently to augment my skills. 🚀
+- 📚 I'm currently diving deep into the realms of software development and architecture, focusing on machine learning, large-scale data analytics, and advanced system design. Concurrently, I'm exploring front-end development independently to augment my skills. 🚀
 - 📫 How to reach me: balkarn.gill@outlook.com
 
 ## 🛠️ My Skills 🛠️

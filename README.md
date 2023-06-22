@@ -34,7 +34,8 @@ I'm looking to follow my passion and pursue a career in software engineering whe
 
 ## 💻 My GitHub Statistics 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bk-gill&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bk-gill&layout=compact)
+
 
 ## 📬 Get in Touch 📬
 

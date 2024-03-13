@@ -31,13 +31,6 @@ I'm looking to follow my passion and pursue a career in software engineering whe
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 
-
-## 💻 My GitHub Statistics 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bk-gill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ## 📬 Get in Touch 📬
 
 - GitHub: [https://github.com/bk-gill](https://github.com/bk-gill)

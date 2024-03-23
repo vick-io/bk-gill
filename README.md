@@ -33,7 +33,7 @@ I'm looking to follow my passion and pursue a career in software engineering whe
 
 ## 📬 Get in Touch 📬
 
-- GitHub: [https://github.com/bk-gill](https://github.com/bk-gill)
+- GitHub: [[https://github.com/bk-gill](https://github.com/vick-io)](https://github.com/vick-io)
 - LinkedIn: [https://www.linkedin.com/in/vick-gill-826881240/](https://www.linkedin.com/in/vick-gill-826881240/)
 - Twitter: [@vickgill222](https://twitter.com/vickgill222)
 

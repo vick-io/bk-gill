@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Balkarn! 👋
+# 👋 Hi, I'm Vick! 👋
 
 ![Github followers](https://img.shields.io/github/followers/YourGithubUsername?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/bksgill?style=social)
 
